@@ -273,7 +273,7 @@ def main():
         if depression_level is not None:
             st.write(f'Your depression level was : {depression_level}')
 
-        user_age = st.number_input("Please enter your age",10,100)
+        user_age = st.number_input("Please enter your age",10,65,20)
 
         high = ['severe','extreme']
         low = ['none','mild','moderate']
