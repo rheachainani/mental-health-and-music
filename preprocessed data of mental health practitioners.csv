@@ -1,0 +1,509 @@
+,Unnamed: 0,name,age,gender,title,languages,qualifications,contact,address,location,english,hindi,punjabi,telegu,tamil,malayalam,kannada,gujarati,sindhi,bengali,marathi,marwari,rajasthani,urdu,konkani,assamese,oriya,spanish,french
+0,0,Gaurav Kulkarni,30-39,male,Psychiatrist,"english, marathi",MBBS MD,9987545314,,Mumbai,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1,1,Dr Bharat Shah,40-49,male,Psychiatrist,"english, hindi, gujarati",M.D.,9821074495,Shushrut and Lilavati Hospitals,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,2,Manik Bhadkamkar,20-29,male,Clinical Psychologist,"english, hindi and marathi","B.A. Psychology, M.A. Psychology and M.Phil. Clinical Psychology (RCI registered)",9987142188,INHS Asvini hospital. Colaba,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,3,Pushpa Venkatraman,40-49,male,Counsellor/Psychotherapist,"english, hindi","Masters in psychology, EMDR trained therapist",919869332886,"Private clinic, mulund",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,4,Dr Manjiri Deshpande Shenoy,30-39,male,Psychiatrist,"english, marathi, hindi","MBBS, DNB, PDF",9820330802,Indlas Child Guidance Clinic,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,5,Sonali Gupta,,male,Counsellor/Psychotherapist,"english, hindi",,9819733002,,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,6,Harish Shetty,50-59,male,Psychiatrist,"english, hindi, marathi",,98200 32178,Nityanand Nursing Home & Hiranandani Hospital,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,7,Vijeyta kanetkar,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi",M.A. counseling psychology,8082028808,"Nath hospital, Thane",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,8,Amit Kulkarni,30-39,male,Psychiatrist,"english, hindi, marathi",,9833378163,"KLS, Vile Parle (W) & Asha Parekh, Santacruz (W)",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+9,9,Moazzam Khan,20-29,male,Clinical Psychologist,english marathi hindi,Pg psychology,9860512131,Chicken ghar kalyan west,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10,10,Amit Kishore Joshi,30-39,male,Clinical Psychologist,"english, marathi, hindi",MA - Clinical Psychology,98213 68543,"Brahman Seva Sangh, Borivali (E) & Harmony Training and Counseling Centre, Nerul",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11,11,Nikita D'Souza,20-29,male,Clinical Psychologist,"english, hindi, marathi",M.A. Clinical Psychology,9833533074,"Indla's Child Guidance Clinic (ICGC), Saki Naka, Andheri (East)",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,12,Shruti Chakravarty,30-39,male,Counsellor/Psychotherapist,"english, hindi, marathi, bengali",Masters in Medical and Psychiatric Social Work,9769267499,Pali Naka Bandra (W) Mumbai-50,Mumbai,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+13,13,Dr Anjali Deshpande,40-49,male,Psychiatrist,"marathi, hindi. english",Mbbs. Dpm,"25360935, 25450970",National hospital. 3 petrol pump. Naupada. Thane,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,14,Dr. Rizwana Nulwala,30-39,male,Counsellor/Psychotherapist,"english, hindi","MA in Medical and Psychiatric Social Work, TISS, PhD in Clinical Social Work (TISS)",98 67 399559,"Krizalyz : The Journey
+ Within. Counselling and Mental Health Services -  301, Shiv Om CHS, Panch Marg, off Versova- Yari Road,  Andheri West, Mumbai--61.",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,15,Mrs. Jasmine Khattar,50-59,male,Clinical Psychologist,"english, hindi, punjabi, marathi",Masters in Psychology,9820323769,"Institute for Exceptional Children, 2A Chandra Niwas, Church Road, Andheri East, Mumbai",Mumbai,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+16,16,Dr Parul Tank,40-49,male,Psychiatrist,hindi english marathi gujarati,MD diploma and UK qualifications,8879746976,Bandra and ghatkopar,Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+17,17,Dr. Minnu Bhosle,50-59,male,Counsellor/Psychotherapist,"hindi, english, marathi, maybe punjabi",PhD,2223755866,"Address:
+  Heart To Heart Counselling Centre
+  10 Jerbai Baug, Ambedkar Road,
+  Near Gloria Church, Byculla (East),
+  Mumbai 400027, INDIA.
+  Tel : 23778624 / 23755866",Mumbai,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18,18,Rohann Bokdawala,20-29,male,Psychiatrist,"hindi, english",Neuropsychiatrist,912239539149,"Kakad house, A wing, Marine lines",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,19,Divya Srivastava,20-29,male,Counsellor/Psychotherapist,"english, hindi, bengali","Bachelors in Psychology, Masters in Counselling, Matrix Reimprinting Practitioner, Clinical Hypnotherapy, EFT Practitioner",9930332514,"The Silver Lining Centre, 202, Sai Commercial, BS Devshi Marg, Deonar, Mumbai 400088.",Mumbai,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,20,Dr Varun Ghildiyal,20-29,male,Psychiatrist,"hindi, english and marathi","MBBS, MD Psychiatry",9833149322,KEM,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+21,21,Snehajanaki,20-29,male,Counsellor/Psychotherapist,"english, hindi, malayalam",MA Counselling,9833890973,"Shop no.26,
+ Viral Shopping Centre,
+ S.V. Road,
+ Next to R K restaurant,
+ Opp. Shoppers stop,
+ Andheri West,
+ Mumbai- 400058.",Mumbai,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,22,Manali Randive and Rajasi Kulkarni-Diwakar,20-29,male,Clinical Psychologist,"english, marathi, hindi (all fluently)",Both are Post Graduates in Psychology and Manali applied for PhD too.,9833943934,They are freelancers,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+23,23,Alisha Shail,20-29,male,Clinical Psychologist,"english, hindi, gujrati, marathi, french",Ma clinical psychology,9920731799,Goregoan,Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+24,24,Tanu Choksi,40-49,male,Counsellor/Psychotherapist,english and hindi,"Masters in Clinical Psychology + Advanced degree in REBT from Albert Ellis, NY",919920049000,"204, Doctor Centre, Kemps Corner, Mumbai - 400036",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,25,Samriti Makkar Midha,30-39,,Counsellor/Psychotherapist,"english, hindi","M.Sc. Psychology (Clinical), B.A. Psychology (Hons)",96198 97851,Lower Parel,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,26,Swati Khanolkar,30-39,male,Counsellor/Psychotherapist,"english,hindi,marathi",Masters in clinical psychology,99 87 705530,"13,Kamla Bhuvan 1, Sahar road, Near garware industries, Andheri East, Mumbai 400069",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+27,27,Meghana Jadhav,20-29,male,Counsellor/Psychotherapist,hindi marathi english,MA psychology,7303135717,"A 101, Krishna Smruti chs ltd, opposite Tosa Hotel, Parleshwar rd, Vile Parle east, Mumbai 57",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+28,28,Advaita Nigudkar,20-29,male,Clinical Psychologist,"english, hindi, marathi",Masters in Applied Psychology (Clinical),9029011626,"Institute for Psychological Health, Thane, Naupada
+ Society for Nutrition, Education and Health Action, Dharavi, Mumbai
+ Privately on skype . Facilitates a free therapy group called SAAHAS for the LGBTQIA community in Thane.",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+29,29,Veena Fernandis,40-49,,Counsellor/Psychotherapist,hindi english,,981-971-4640,"Near matralaya, south bombay",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,30,Rayna Mehta,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi, gujarati",MSc Developmental Psychopathology,9769239207,Private practice. Kemps Corner,Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+31,31,Anusha Manjani,30-39,male,Clinical Psychologist,english and hindi,M.A. Clinical Psychology,9819154153,"Aasaan Health Solutions, Khar and Private Practice in Bandra West",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,32,Dayal Mirchandani,60-69,male,Psychiatrist,english hindi,MD DPM,919029077645,604 D1/9 Yamuna Nagar Andheri West,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,33,Rachana Awatramani,20-29,male,Counsellor/Psychotherapist,english hindi,MA,9930360163,"2/3 flr Duru House, Juhu Tara Road Juhu Mumbai 49",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,34,Dr Milan Balakrishnan,30-39,male,Psychiatrist,english hindi marathi gujarathi,"MD , DPM",9930160068,"Bombay Hospital
+ Parel Hospital 
+ Masina Hospital",Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+35,35,Jagruti Wandrekar,20-29,male,Clinical Psychologist,"english, hindi, marathi",MA applied psychology (clinical),9869691723,"Sneha, Mumbai and the institute of psychological health, thane. Facilitates a free therapy group called SAAHAS for the LGBTQIA community in Thane. ",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+36,36,Sadaf Vidha,20-29,male,Counsellor/Psychotherapist,"english, hindi, little in marathi and gujarathi",Masters in clinical psychology,7666114082,"Typeathought.com, she will quit from there soon but can meet clients in cafes etc, stays in new bombay",Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+37,37,Anshu Kulkarni,30-39,male,Psychiatrist,"english, hindi",,9987042534,,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,38,Sonia Kadam,20-29,male,Counsellor/Psychotherapist,english and hindi,,9167972910,,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,39,Tejaswi Shetty,20-29,,Counsellor/Psychotherapist,"english, hindi","M.A in Psychology; International Diploma in Mental Health, Human Rights, and Law",9819610714,10 am to 8:30 pm,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,40,Dr. Ambrish Dharmadhikari,30-39,male,Psychiatrist,"english, marathi","DPM, DNB",7208109965,3pm to 9pm,Mumbai,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+41,41,Kinjal Shah,30-39,male,Counsellor/Psychotherapist,english/hindi/gujarathi,Masters in Counseling Psychology,9821425051,4.30 pm -8.30 Pm,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,42,Shweta Srinivasan,20-29,male,Clinical Psychologist,"english, hindi",M.A. Clinical Psychology and Advanced Diploma in Counselling Psychology,9820969329,12 p.m. to 7 p.m.,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,43,Dr Anita Sukhvani,50-59,other,Psychiatrist,"english , hindi , marathi",BA economics,9821004720,43379,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+44,44,Komal Kaira,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA in Clinical Psychology,7506498345,"8 am - 1 pm (Monday to Saturday), 9am - 7pm (Sunday)",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,45,Amrita Clements,30-39,male,Counsellor/Psychotherapist,"english, maybe hindi/marathi",,9819768243,,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+46,46,Dr. Hardik Sheth,20-29,male,Psychiatrist,"english, hindi, gujrati","Diploma in Psychiatric Medicine, MBBS",7303858435,"Juno Clinic, 601, 6th Floor, Agora Business Plaza, SV Road, Borivali (W), Landmark: Same Building as McDonalds, Vivekanand Nagar, Borivali West, Mumbai, Maharashtra 400092",Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+47,47,Scherezade Siobhan,30-39,male,Counseling Psychologist/Psychotherapist,"english, hindi","MA, Clinical Psychology, Certified REBCT Therapist via Alber Ellis Institute",,"Kandivili, Goregaon, Andheri, Colaba and Online",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,48,Hemangi Vyawahare,30-39,male,Clinical Psychologist,"english, hindi, marathi",MA psychology,7738166706,"Mindcraft, Ground Floor, 
+ Chaddha Niwas(Kundan Villa), 
+ 18th Road, 
+ Next to Guru Harkrishan School, 
+ Santacruz West.",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+49,49,Gitali Chatterjee,20-29,male,Clinical Psychologist,"english, hindi, bengali","Majored in Psychology and Masters in Applied Psychology from Mumbai University, M.Sc. in Clinical Forensic Psychology from Leicester, UK",99 20 370462,"Office no. 40, Evershine Mall,
+ 
+ 1st Floor,
+ New Link Road,
+ Chincholi Bunder,
+ Mindspace,
+ Malad (West) â€“ 400064",Mumbai,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+50,50,Binita Modi,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati","M.A, M.Ed in Psychological Counseling",9967345522,"Juhu Tara Road, Juhu and GRIT Psychology Consultancy",Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+51,51,Riona Lall,30-39,male,Counsellor/Psychotherapist,"english, hindi, bengali",Masters in Clinical Psychology,8291709317,Private Practise,Mumbai,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+52,52,Pankti Gohel,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati",M.A. Applied Psychology (specialization in Counseling),7878388880,None,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+53,53,Sakshi Jain,20-29,male,Clinical Psychologist,"hindi, english, gujrati",Masters in Clinical Psychology,9029069694,Freelance,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,54,Dr. Syeda Ruksheda,30-39,male,Psychiatrist,"english, hindi, marathi","MBBS, DPM",9820033095,"Trellis family centre, Bungalow no.9, sheffeild towers, 2nd cross lane, lokhandwala, Andheri (west), Mumbai.",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+55,55,Safvana Khalid,20-29,male,Clinical Psychologist,"english, hindi, marathi, konkani and urdu",M.Sc Clinical Psychology,9029537954,"Anand Sagar CHS, 102 A, building, Abhyudaya Bank Marg, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+56,56,Dr. Kedar Ajay Tilwe,30-39,male,Psychiatrist,english hindi marathi,"MBBS ,DPM , DNB (Psy.)",9833730555,"Dr Tilwe nursing home , 102 Awing , Anandsagar , Sector 17 , Vashi .",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+57,57,Jasdeep Mago,20-29,male,Counsellor/Psychotherapist,"english, hindi",MSc. Clinical Neuropsychology,9920023841,"702, ocean view, union park
+ khar west",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,58,Richa Mistry,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati",Addictions counselling,9137340466,Andheri,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+59,59,Irawati Joglekar,20-29,male,Clinical Psychologist,"english, hindi, marathi",M.A. clinical psychology,99207 95419,Matunga,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+60,60,Invisible Illness,20-29,male,Counsellor/Psychotherapist,english/ hindi/ gujarati/ marathi,,022266009847 / 02226607217,"Rotary Medical Centre, Rotary Chowk, Juhu Tara Road, Opposite Millionaire, Santacruz West, Mumbai 400049",Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+61,61,Delica D'sa,20-29,male,Clinical Psychologist,english,MA clinical psychology,7738457481,"Holy Spirit hospital, Andheri / Hiranandani hospital, Powai",Mumbai,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,62,Anisha Gurbuxani,40-49,male,Counsellor/Psychotherapist,english /hindi,"A certified REBT therapist , A Metaphor Therapist , ADC",7045664615,Lokhandwala Andheri West,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,63,Neha Bhat,30-39,male,Creative art therapist,"english, hindi, kannada","Masters in Art Therapy and Counseling, Diploma in Art-Based Therapy, Rape crisis training",,"Online practice, Rape Victim Advocates, Chicago and Private Practice: D 701, Aster Park, Yelahanka, Bangalore- 64",Mumbai,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64,64,Kriti Jain,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA Applied Psychology,8452960463,"Manju Nursing Home, Sindhi Society, Chembur East, Mumbai, Maharashtra - 400071",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,65,Devika Kapoor,20-29,male,Counsellor/Psychotherapist,"english, hindi",M.A Counseling Psychology- Tata Institute of Social Sciences,9619046437,Private Practice,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,66,Mind & Me Mental Health Services ,20-29,male,Counsellor/Psychotherapist,"english, hindi, kannada, marathi",M.A. Clinical Psychology,8879565156,"74 ground floor, pali village, off pali naka, bandra west",Mumbai,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+67,67,Rochelle Suri,30-39,male,Clinical Psychologist,"english, hindi","PhD, MFT",9930746648,Private Practice,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,68,Arti Shroff,30-39,male,Counsellor/Psychotherapist,"english, hindi",,9920699868,"204, Doctor Center, Kempston Corner, Mumbai 400036.",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,69,Meenal Mishra,40-49,male,Clinical Psychologist,"english, hindi","MA - Clinical Psychology, M.Phil - Clinical Psychology",22 2867 9396,"Dr. Kiran's Mind Centre, B102, Giriraj Heights, Lalji Pada, Link Road, Landmark : Near Axis Bank and Maharashtra Bank",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,70,Arhant Gandhi,30-39,male,"BHMS, CCAH","hindi, english gujarati.",M.D. (Psychiatry);,022 2660 2077,"5, Juhu Tara Rd, Mangelwadi, Shivaji Nagr, Juhu, Mumbai, Maharashtra 400049",Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+71,71,Aneree Parekh,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati",MSc and Diploma in advanced counselling skills,7304033243,Juhu 3rd road,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+72,72,Dr.Naresh Tambe,30-39,male,Counsellor/Psychotherapist,"marathi, hindi, english","Phd in personality Psychology , M.A in Psychology with specialisation in of Counselling Psychology","9869638767, 842294989","Gautam Nagar, behind BSP Office, near 315 bus depot, Goverment Colony, Bandra East, Mumbai 400051",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+73,73,Aaisha Khan,20-29,male,Clinical Psychologist,english and hindi,M.A Applied Psychology(Clinical),9769296832,Juno Clinic,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,74,Rachna Tuli Mashkaria,30-39,male,Counsellor/Psychotherapist,english and hindi,M.A. in Career and Developmental Counselling,9820250408,Vibgyor Group of Schools,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,75,Hvovi Bhagwagar,40-49,male,Clinical Psychologist,"english, hindi",MASTERS IN PSYCHOLOGY,9821321132,"149, POWAI PLAZA, CENTRAL AVENUE, HIRANANDANI, POWAI",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,76,Mansi Hasan,30-39,male,Clinical Psychologist,"english, hindi",MA Psychology,9820155137,"Sunflower (Juhu), Criti Care Hospital (Juhu)",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,77,Aleka Kumar,40-49,male,Counsellor/Psychotherapist,english,,,mostly sees clients at her home office. she will share the details on being contacted.,Mumbai,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,78,Gitali Chatterji,30-39,male,Clinical Psychologist,"english, hindi","Majored in Psychology and Masters in Applied Psychology from Mumbai University, M.Sc. in Clinical Forensic Psychology from Leicester, UK",99203 70462,"Inner Space Counselling Center
+ 514, Palm Spring Center, Above Croma, Link Road, Malad West, Mumbai, Maharashtra 400064",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,79,Tanvi Thakkar,20-29,male,Counsellor/Psychotherapist,"english, hindi",,98195 49088,Brainwaves Assessment & Therapy,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,80,Kalyani Sohoni,20-29,male,Clinical Psychologist,marathi. hindi. english,,9029030054,Nirmal polyclinic. Bandra east.,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+81,81,Shachi Dalal,20-29,male,Clinical Psychologist,"english, hindi, gujarati",MA Clinical Psychology,9819642754,"Vasant, 389, SV Road, Vile Parle West, Mumbai 400056",Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+82,82,Eaishwarya Natekar,30-39,male,Clinical Psychologist,"english, marathi and hindi","M.A., Applied Psychology (Clinical)",9890412008,"Institute for Psychological Health, Thane, SNEHA- Mumbai. Private Practice",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+83,83,Ana Khan,20-29,male,Counsellor/Psychotherapist,english & hindi,M.A in Applied Psychology,8657607196,"Bandra West, Mumba",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,84,Kuntal Vora,20-29,male,Counsellor/Psychotherapist,"english, hindi and gujrati",MA in Counseling Psychology,8657422409,Sion,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+85,85,Dr. Sanjay Kumawat,50-59,male,Psychiatrist,"english, hindi, marathi",MD. Psychiatry,9821066067,Jupiter Hospital Thane; Laxmi Nursing Home Mulund West,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+86,86,Rasika Karkare,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi",M.sc in Counseling Psychology,9972449749,MindVoyage,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+87,87,Ms. Neha Kathuria,30-39,male,Counsellor/Psychotherapist,"english, hindi",Tata Institute of Social Sciences,91 84540 31389,Jaipuria Vidyalaya,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,88,Ishita Gupta,20-29,male,Counsellor/Psychotherapist,"hindi, english",Neuropsychology,7304898144,Breakthrough Counseling,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,89,Mark Lobo,30-39,male,Counselling Psychologist,english,MSc in Counselling Psychology,,"Hill Rd, Bandra",Mumbai,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,90,Suvrita,20-29,male,Counsellor/Psychotherapist,english and hindi,MA in Applied Psychology (specialization Clinical Psychology),8383012635,Mumbai,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,91,Dr. Bharat Shah,60-69,male,Psychiatrist,"english, hindi","MBBS, MD(Psychiatry)",#ERROR!,"Sushrut Hospital, Chembur; Somaiya Hospital; Lilavati Hospital;",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,92,Anjali Nair,20-29,male,Counsellor/Psychotherapist,"english, hindi, malayalam and tamil",MA Applied Psychology (Clinical),9619270481,Reflective Arena,Mumbai,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,93,Ankita Choudhury,20-29,male,Counsellor/Psychotherapist,"english, hindi, assamese",MA in Applied Psychology with specialization in Counseling Psychology,8828082554,"Reflective Arena, Shop no 26, Viral Shopping Centre, S.V. Road, Next to Radhakrishna restaurant, Opp Shopper's Stop, Andheri West, Mumbai 400 058",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+94,94,Forum Lalka,20-29,male,Clinical Psychologist,"english, hindi",MA Applied Psychology (Clinical Psychology),2226289792,"Mind Temple, 3rd Floor, Daffodils, #49,
+Between Aromas Cafe/Country Club & Gazebo House,
+Behind Starbucks, Opp. Allahabad Bank,
+Off. Gulmohar Road,JVPD Scheme,
+Mumbai â€“ 400 049",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,95,Nehaa Beotra,30-39,male,Experiential Counsellor,hindi and english,"Certified NLP practitioner, Certified Psychometric Assessor, Studied human Resources at TISS MUMBAI",9819850146,E103/104 Maheshwari nagar MIDC Andheri East,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,96,Tejas Shah,30-39,male,Clinical Psychologist,"english, hindi, gujarati",M.Phil Clinical Psychology (RCI),,"Healing Studio, A-1, PMC, Mangal Kunj, Opp. Indraprastha mall, Borivali West, Mumbai - 400092",Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+97,97,Shachi Dalal.1,20-29,male,Counsellor/Psychotherapist,"english, hindi",Master's in Clinical Psychology,9819642754,"Plot No 389, Vasant, Ground Floor, Swami Vivekananda Road, Vile Parle West, Mumbai - 400056, Opp. Pawan Hans Gate",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,98,Tanya Vasunia,20-29,male,Counsellor/Psychotherapist,english,M.Sc. in Psychoanalytical Developmental Psychology,9820403602,"1, 155, 15, N S Patkar Marg, Khareghat Colony, Mumbai, Maharashtra 400007",Mumbai,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,99,Rahat Sanghvi,20-29,male,Clinical Psychologist,"english, hindi, gujarati","Master's in Psychology, Clinical",9930283367,Synapsium Brain Health Care,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+100,100,Tanvi Mehta,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA In counseling,9930331413,"74, Dr Ambedkar Rd, Pali Village, BandraWest, Mumbai, Maharashtra 400050",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,101,Sunil Punjabi,40-49,male,Counsellor/Psychotherapist,english and hindi,,9892546024,"Lokhandwala, Mumbai. Also offers therapy through phone, whatsapp and Skype. I took therapy on phone and it worked very well.",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,102,Tanvi Mallya,30-39,male,Neuropsychologist,"english, hindi, marati, konkani,",MSc Neuropsychology,9920249321,Mumbai (at-home mental health for the elderly),Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+103,103,Rimpa Sarkar,30-39,male,Counsellor/Psychotherapist,"hindi, english and bengali",M.A. Clinical Psychology,9769592733 / 9867226459,Sentier Mind (Private Practice),Mumbai,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+104,104,Havovi  Hyderabadwalla,30-39,male,Clinical Psychologist,"english, hindi, gujarati","Masters in Clinical Psychology, Masters in Forensic  Psychology",9820019322,Mind Mandala  Tardeo,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+105,105,Janki Mehta,30-39,male,Counsellor/Psychotherapist,"english, hindi, marathi, gujrati",Masters in Psychology,9819001030,Mind Mandala,Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+106,106,Priyanka Kartari,30-39,male,Counsellor/Psychotherapist,"english, hindi",,98206 29142,"Holy Family Hospital, Bandra (St Andrews Rd, Bandra West, Mumbai, Maharashtra 400050) OR The Thought Co., Lower Parel (14/3rd Floor, Mahalaxmi Industrial Estate, Dainik Shivner Marg, Exit Rd to Sea Link, Lower Parel, Mumbai, Maharashtra 400013)",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,107,Kanika gupta,40-49,male,Counsellor/Psychotherapist,english hindi,Masters in psychology,9819519568,Aashray development centre bandra west,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,108,Vijayta Jagnani,30-39,male,Counsellor/Psychotherapist,"english, hindi and marathi",Masters in Human Development,8879556896,"
+Address- D-41 Virat bldg Room no 004; ground floor; opposite Lifeline Hospital; -East, Gokuldham Colony, Goregaon, Mumbai ",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+109,109,Tanya Jain,30-39,male,Counsellor/Psychotherapist,english hindi,Clinical psycology,9004290738,"polyclinic @ twinkle apartments, 1st floor, near Infinity Mall, Andheri west.",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,110,Shreemant Yadav,30-39,male,Counsellor/Psychotherapist,"hindi, english, marathi",Masters in counseling paychology,9920099910,Ghatkopar (east)/ Santacruz ( west),Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+111,111,Nyamat Chadha,20-29,male,Counsellor/Psychotherapist,"english, hindi",Master's in Clinical Psychology,9819154161,Andheri West,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,112,Kanika gupta.1,40-49,male,Counsellor/Psychotherapist,english and  hindi,MA Psychology,9819519568,Aashray- Bandra west,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,113,Pooja Harlalka,30-39,male,Counsellor/Psychotherapist,english and hindi,Licensed Mental Health Counselor (LMHC),9821511200,Worli and Bandra,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,114,Ekta Tripathi,30-39,male,"Relationship, communication and empowerment Coach","english, hindi","Master's in Learning and Development (UoE, UK), Certified coach",8451064412,"Relationship Hero
+340 S Lemon Ave #5553
+Walnut, CA 91789",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,115,Bhavan Lalwani,20-29,male,Counsellor/Psychotherapist,hindi and english,"Ma Counselling (TISS)
+LLB
+Trained in Narrative Therapy ",9869543729,Chembur,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,116,Anisha Gurbuxani.1,40-49,male,Counsellor/Psychotherapist,"english, hindi","ADC 2019 -  Prafulta, REBT from In Vivo",9920119693,"Lokhandwala, Andheri (W)",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,117,Anjana Chabria Jaisingh,50-59,male,Counsellor/Psychotherapist,"english, hindi, sindhi","M. A. Counselling, REBT, CBT, NLP",9004332229,"Open Mind Counselling, juhu scheme",Mumbai,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+118,118,Ashish Korday,50-59,male,Counsellor/Psychotherapist,"english, marathi, hindi",M.A psychology,9869764331,Parel bhoiwada,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+119,119,Kuntal Vora.1,20-29,male,Counsellor/Psychotherapist,"english, hindi and gujrati",MA in Counseling Psychology,8657422409,Sion,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+120,120,Dr. Alkesh patil,20-29,male,Psychiatrist,"english, hindi, marathi, gujrati","M.B.B.S., D.N.B. PSYCHIATRY",9022236410,"Vedant hospital, kasarvadavli, ghodbunder road. Indravati hospital, next to airoli railway station.",Mumbai,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+121,121,Richie patil,30-39,male,Clinical Psychologist,"english, hindi, marathi",BSc psychology,9820780732,"Phoenix hospital, majiwada, thane west",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+122,122,Sneha Ramachandran,20-29,male,Counsellor/Psychotherapist,"english, hindi, tamil, marathi",M.A. in Applied Psychology (Specialization in Counseling Psychology) from TATA Institute of Social Sciences (Mumbai),919324441744,"National Mental Health Clinic, 3rd Floor Ajit Darshan Building, 3 Petrol Pump, Naupada, Thane West - 400602.",Mumbai,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+123,123,Devanshi Rao,20-29,female,Counsellor/Psychotherapist,"english, hindi, marathi",Masters in Counselling Psychology,9972879380,Online through video call,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+124,124,Rashna Elavia,20-29,male,Clinical Psychologist,"english, hindi, gujarati","MA Clinical Psychology, trained EMDR practitioner",7389931905,Currently practicing online,Mumbai,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+125,125,Pooja Deshmukh,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi",M.A. Clinica psychology,9702660190,Dadar,Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+126,126,Rashi Goyal,20-29,male,Counsellor/Psychotherapist,english and hindi,M.A in Psychology and Pg Diploma in Counselling Psychology from Xavier's Institute of Counselling Psychology,9820344608,Kandivali East,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,127,Krishnaveni Kannan,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi, tamil.",Masters in Clinical Psychology,919768080468,Better mind project.,Mumbai,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+128,128,Praneeta Katdare,20-29,male,Counsellor/Psychotherapist,marathi english hindi,Masters in Clinical Psychology,918850318815,"Health Tree, 1/10, Goregaon Navjyoti CHSL No. 2 Mahatma Gandhi Road, opp. New India Co-op Bank Ltd, Unnat Nagar, Goregaon West.",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+129,129,Mrudula Joshi,20-29,male,"REBT, CBT, Play Therapist and Family Therapist","english, marathi and hindi","Post Graduation in Psychology, Trained in CBT, REBT, Play Therapy and Family Therapy",9869378751,"1. Spectrum Clinic, Vinita society, Gokhale Rd, next to Malhar talkies, Thane West, Thane, Maharashtra 400602
+2. 534 Bombay Mutual Terrace, Sandhurst Bridge, Opera House, Mumbai, Maharashtra 400007",Mumbai,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+130,130,Latika Suryavanshi,20-29,male,Counsellor/Psychotherapist,english hindi,MA(Clinical Psychology) Advanced Diploma in Counselling (Prafulta Psychological Services) Queer Affirmative Counselling Practices (MHI),+91 99875 00979,Private practice,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,131,Anjana Chabbria,30-39,male,,english and hindi,,8375837520,"Juhu, mumbai",Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,132,Shanaya Boyce,20-29,male,Counsellor/Psychotherapist,"hindi, english",Trauma informed queer affirmative Therapist with a Masters in Clinical Psychology,9920694604,,Mumbai,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,133,Aradhna Agarwal,20-29,male,,hindi english,Nil,,Nil,Chhatisgarh,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,134,Aakanksha Kanojia,20-29,male,Counsellor/Psychotherapist,english and hindi,,9716765236,"A-21, Flower Valley, Raipur, Chhattisgarh",Chhatisgarh,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,135,Dr. Achal Bhagat,50-59,male,Psychiatrist,hindi english punjabi,"MBBS , MRC Psych (Oxford)",9560065735,A1/266 Safdarjung enclave,Delhi NCR,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,136,Navya Dev,20-29,male,Counsellor/Psychotherapist,hindi n english,Masters in psychology.,,Amrapali Hospital Greater Noida,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,137,Alok Sarin,50-59,male,psychiatrist,"english, hindi",,011 4211 1111,Sitaram Bhartia Institute of Science and Research,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,138,Dr Jyoti Kapoor,30-39,male,Psychiatrist,english,Mbbs/DPMS psychiatry,99908 18967,Manasthali,Delhi NCR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,139,Sukhmani pal,20-29,male,Clinical Psychologist,"english, hindi, punjabi",Masters in clinical psychology,9999904500,"The mind tree, CR Park, New Delhi.",Delhi NCR,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,140,Shivani Agarwal,30-39,male,Psychiatrist,"english, hindi","MBBS, MRCPsyxh",98188 46698,"Vimhans Hospital, Nehru Nagar, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,141,Ms. Rashi Kapoor,20-29,male,Clinical Psychologist,"english, hindi",,98102 13341,"Fortis escorts, okhla",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,142,Rani Dandekar Bhatia,50-59,male,Psychiatrist,"english, hindi",MD,9873353305,"Sant Parmanand Hospital, Civil lines, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,143,Ankita Khanna,30-39,male,Counsellor/Psychotherapist,hindi english,,011-46084843,"Children First, Safdarjung Enclave",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,144,Dr. Sneh Kapoor,30-39,male,Counsellor/Psychotherapist,"english, hindi",PhD- Clinical Psychology,9818280842,Independent Practitioner,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,145,Shilpi Banerjee,30-39,male,Clinical Psychologist,english hindi,,9650954146,Batra Hospital,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,146,Anshuma Kshetrapal,20-29,male,Counsellor/Psychotherapist,english / hindi,"MA PSYCH, FECAT, MA DMT",9312503668,"E-2, Kalkaji, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,147,Dr. Vikas Jain,40-49,male,Psychiatrist,"english, hindi",,919711303500,"Perfect mind clinic, West Patel Nagar",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,148,Aditi Kumar,20-29,male,Art therapist,"english, hindi","M. A. In Counseling Psychology, specialisation in art therapy",8527569008,"A 205, sujjan vihar, Gurgaon",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,149,Pallav Bonerjee,30-39,male,Clinical Psychologist,"english, hindi, bengali",M.Phil Clinical Psychology,9582915036,"Vimhans Hospital, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+150,150,Manavi Khurana,30-39,male,Counsellor/Psychotherapist,hindi & english,Master in Applied Psychology (New York University),9821477730,"F7/7, First Floor, Vasant Vihar, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,151,Urvashi Agarwal,20-29,male,Counsellor/Psychotherapist,english/hindi,"M.Phil, Ambedkar University",,Panchsheel Enclave,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,152,Amala Ramesh,20-29,male,Counsellor/Psychotherapist,english/ hindi,MSC PSYCHOLOGY,9916959879,Safdarjung enclave,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,153,Anu Goel,40-49,male,Counsellor/Psychotherapist,"hindi , english",M.a. Counselling psychology,9313320146,"Neuro psychiatric clinic, cp, Sunderlal jain hospital, Parmanand hospital.",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,154,Ritika Arora,30-39,male,Counsellor/Psychotherapist,"hindi, english","Masters in Clinical Psychology, M.Phil in Psychotherapy",9870000000,The Psychotherapist Collective,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,155,Dr. Chandan Gupta,60-69,male,Psychiatrist and Psychotherapist,"english, hindi, bengali",MD Psychiatry,9818277233,"Nehru Place, South Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+156,156,Ms. Sudipta Majumdar,20-29,male,Clinical Psychologist,"english,hindi,bengali",MPhil Clinical Psychology,8800752720,"Fortis escorts, Okhla and Fortis, Faridabad",Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+157,157,Dr. Alok Sarin,50-59,male,Psychiatrist,"english, hindi","MD Psychiatry, AIIMS",011 4211 1111,Sitaram Bhartia Institute for Science and Research,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,158,Shreya varma,30-39,male,Clinical Psychologist,"english, hindi","MPhil Clinical Psychology, MA Psychology",9999746949,"Sree Krishna Medical & Research Centre, Pocket 3, Mayur Vihar, Phase 1, New Delhi 110091",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,159,Shevantika Nanda,20-29,male,Counsellor/Psychotherapist,hindi/english,"MA Psychology, University of Delhi; MA Psychology University of St Andrews, Scotland.",9958983778,"606 A, Block B, Sushant Lok I, Gurgaon, Haryana - 122009",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,160,Dr Maneesh gupta,40-49,male,Psychiatrist,hindi english,MD. DNB," 828 708 8934, 858 797 0897",DDA MARKET SEC 17 Dwarka new delhi,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,161,Dr Rajat Thukral,30-39,male,Psychologist,"english,hindi",Psy.D,9873693227,"Private Practise at GK-I , Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,162,Sadhana Vohra,50-59,male,Counsellor/Psychotherapist,"english, hindi",,011 26021324,Independent practice,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,163,Dr. Kavita Arora,40-49,male,Psychiatrist,"english, hindi","MD, CCST (UK)",1146084842,Children First,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,164,Bhavna Kumar,30-39,male,Counselling Psychologist/Therapist,"english, hindi",MSc. Psychological Counselling,8285989900,Not practicing with any clinic or organisation,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,165,Dr. Shruti Kalra,40-49,male,Clinical Psychologist,"english, hindi",M.phil and PhD.in clinical psychology (NIMHANS),9810567479,"Vidyasagar Institute of Mental Health and Neurosciences (VIMHANS, Primamed) Hospital, No.1 Institutaional Area, Nehru Nagar, New Delhi - 110065",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,166,Dr Mehak Nagpal,30-39,male,Psychiatrist,"english, hindi",MD,9560822951,Talwar Medical Centre M-139 G.K.-2,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,167,Ipsa James,20-29,male,Counsellor/Psychotherapist,english and hindi,MA in Clinical Psychology,"9811664760, 7982449464","F7/7, FIRST FLOOR, VASANT VIHAR, NEW DELHI 110057",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,168,Ritika Arora.1,30-39,male,Counsellor/Psychotherapist,"hindi, english","Masters in Clinical Psychology, M.Phil in Psychotherapy",9871139151,The Psychotherapist Collective,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,169,Dr. Shwetank Bansal,30-39,male,Psychiatrist,"english, hindi","MBBS, MD - Psychiatry, PDO (Michigan), C-TMS (Harvard, USA), CCBT (Pennsylvania, USA)",9868042773,"Better Me Health Care
+ I-49, Main Balraj Khanna Marg, Landmark: Opposite Axis Bank, Delhi
+ BLK Super Speciality Hospital
+ #5, Pusa Road., Landmark: Near Rajendra Palace Metro Station., Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,170,Dr. Shobhana Mittal,30-39,male,Psychiatrist,"english, hindi","DPM, MBBS",9717402402,COSMOS INSTITUTE OF MENTAL HEALTH & BEHAVIORAL SCIENCES,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,171,Swarnima Bhargava,30-39,male,Clinical Psychologist,"english, hindi",M.Phil in Clinical Psychology,9711057003,"A 2/35 Safdarjung Enclave, New Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,172,Dr Geeta Maheshwari,50-59,male,Counsellor/Psychotherapist,"english, hindi",,9958600773,East of Kailash,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,173,Priyamvada Aggarwal,20-29,male,Counsellor/Psychotherapist,english,"MSc Counselling Studies from The University o Edinburgh, Scotland, UK.",9811057643,Private Practice,Delhi NCR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,174,Manavi Khurana.1,30-39,,Counsellor/Psychotherapist,"english, hindi",,9821477730,"F 7/7, First Floor, Vasant Vihar, New Delhi-110057",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,175,Dr. Sheikh Basir,50-59,male,Psychiatrist,"hindi, english, bengali, oriya",DPM (Psychiatry),8383887084,"Mind Piper Wellness Centre 411, Gagan Vihar, New Delhi
+ 
+ Khadija National Hospital, Behind Golcha Cinema, Daryaganj, Central Delhi, New Delhi, Delhi 110002
+ 
+ Advance Health Clinic, HR- 142/7, Pulpahladpur, Landmark: Opp LIG DDA Flats, Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+176,176,Dinika Anand,30-39,male,Counsellor/Psychotherapist,"english, hindi","Masters in Psychology, Diploma in Counselling and Family therapy",https://counseling-session.appointlet.com,"A-292, Meera Bagh, Outer Ring Road, Paschim Vihar",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,177,Kritika Mehta,20-29,male,Counsellor/Psychotherapist,"hindi, english, punjabi","MSc Developmental Psychology, Arts Based Therapy Practitioner",9818597060,Greater Kailash,Delhi NCR,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,178,Mrinmoyee Majumdar,30-39,male,Arts-Based Therapy Practitioner,"english, hindi, bengali, french",Arts-Based Therapy Practitioner,9585539481,Kathakaar Trust B-4/135 Safdarjang Enclave New Delhi,Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+179,179,Shreya Varma,30-39,male,Clinical Psychologist,"english, hindi",MPhil Clinical Psychology,9999746949,"Sree Krishna Medical and Research Center, Pocket 3, Mayur Vihar Phase 1, New Delhi 110091",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,180,Dr Maneesh Gupta,40-49,male,Psychiatrist,"english,hindi","MD, Psy",9716661245,Muskurahat Clinic Dwarka,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,181,Yashodhra Arora,30-39,male,Counseling Psychologist and Career coach,"english, hindi and punjabi",M.A Psychology and PG Diploma in Guidance and Counseling,9805368877,Free Lancer and travel all over India,Delhi NCR,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,182,Ummang Sharma Bajpai,20-29,male,Counsellor/Psychotherapist,"english, hindi",MSC ,"02104264984, 7428033263","IAMH, A-602 Noida Sector 19 UP ",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,183,Dr. Sonali Bali,30-39,male,Psychiatrist,hindi english,,29802980,"VIMHANS, Delhi",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,184,Dhritiman Ray,20-29,male,Counsellor/Psychotherapist,"english, hindi, bengali",MA Psychology and other training in specific therapies,9205144177,Green Park,Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+185,185,Ambika Singh,20-29,male,Psychoanalytic Psychotherapist,"english, hindi","MPhil Psychoanalytic Psychotherapy, MA Psychosocial Clinical Studies, BA (H) Psychology",9899059280,Independent,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,186,Srividya Rajaram,30-39,male,Clinical Psychologist,english,M.Sc (Clinical Psychology); M.Phil (Clinical Psychology); pursuing a PhD from IIT Delhi,9871182717,"Adiva Hospital
+C 1/C, Green Park Extension, New Delhi - 110 016
++91-11-4667-2700
+info@adivahospitals.com",Delhi NCR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,187,Dr. Amrita Pain,30-39,male,Clinical Psychologist,"english, hindi, bengali","M.Phil Clinical Psychology, PhD", ,Delhi,Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+188,188,Lakshita Malhotra,30-39,male,Counsellor/Psychotherapist,"english, hindi ","M.A Psych, PhD Gender & Cultural Studies", ,E-2 Kalkaji ,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,189,Dr. Pratap Sharan,50-59,male,Psychiatrist,"english, hindi","Professor, Psychiatry
+M.B.B.S., M.D., Ph.D ",,AIIMS,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,190,Ambika Warrier,40-49,male,Counsellor/Psychotherapist,"english, malayalam, hindi",M.A. Clinical Psychology,9871516454,"Aananda
+159G, Third Floor, Sadbhavna Apartments, Pocket-4, Mayur Vihar Phase-1, Delhi-110091",Delhi NCR,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,191,Anusuya Datta,30-39,male,Clinical Psychologist and Psychotherapist,"english, hindi, bengali",M.Phil in Clinical Psychology,9999602336,Practicing Virtually,Delhi NCR,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+192,192,Dr. Nikhil Raheja,,male,Psychiatrist,english | hindi,"DPM (Psychiatry),MBBS",9811196788,Rajender Nagar & Dwarka,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,193,Mohana Baidya,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA Clinical Psychology,91 9717207362,Munirka,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,194,Sonia Puar,30-39,male,Clinical Psychologist,english and hindi,MPhil ,9818972508,Kathakaar ,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,195,Nikita Jain,30-39,male,Clinical Psychologist,"english,hindi","M.Phil. Clinical Psychology, MA Psychology, PhD Scholar ",9891635626,Delhi NCR,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,196,Dr Gaurav Deka ,30-39,male,Counsellor/Psychotherapist,"english, hindi, assamese ","MBBS, BA Psychology from BU",+91 95991 54305,"D-687, 2nd floor, Chittranjan Park ",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+197,197,Yukti Ballani,20-29,male,Counsellor/Psychotherapist,"english, hindi","M. A. (Clinical Psychology), P. G. Fellowship (Mental Health Education)",9811273255,"219-A, 2nd floor, Unitech Arcadia, South City 2, Sector 49, Gurgaon",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,198,Prakriti Nanda,20-29,male,Counsellor/Psychotherapist,english and hindi,B.A. Applied Psychology and M.A. Counselling Psychology,9899408889,"V-6/7
+Dlf Phase 3",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,199,Dr. Prerna Kohli,50-59,male,Clinical Psychologist,"english, hindi",PHD,9811862338,"Nathupur Road, DLF Phase 3. Gurgaon, Haryana. 122002",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,200,Harshita Kaushal,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA Psychology (TISS),1244004625,"B  18/9, Children First, DLF Phase 1, Gurgaon",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,201,Aastha Ahuja,20-29,male,Counsellor/Psychotherapist,"english, hindi, punjabi","Masters in Counselling psychology, Certified Expressive Arts Therapist, Career Counsellor",9650631908,"Home
+RDC-52 RAJ NAGAR, GHAZIABAD",Delhi NCR,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,202,Anita Rajah,50-59,male,Clinical Psychologist,"english, malayalam, hindi",,949-598-5180,"Vigyan Valley, Kochi",Delhi NCR,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,203,Mrs. Upasana Chaddha,30-39,male,Counsellor/Psychotherapist,hindi and english,Phd,9716607374,"First Floor, E-5/1, Block E, Malviya Nagar, New Delhi, Delhi 110017",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,204,Sonia,30-39,male,Clinical Psychologist,hindi and english,MPhil,9818972508,Kathakaar,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,205,Samra Khan,20-29,male,Counsellor/Psychotherapist,hindi and english,MA clinical psychology,9999282723,Defense Colony,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,206,Dr. Mansi Arya,30-39,male,Counsellor/Psychotherapist,english/hindi,"BHMS, MD - Homeopathy, MSc - Psychotherapy",9990043020,"Shivalaya Wellness Care, Shivalik, Malviya Nagar",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,207,Nanki oberoi,20-29,male,Counsellor/Psychotherapist,english and hindi,"Ba (honors) Psychology
+Master of arts, Psychology
+Msc. Psychoanalytic developmental psychology",9811026187,A4 Sector 31 Noida,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,208,Ambika Warrier.1,40-49,male,Clinical Psychologist,english,MA in Clinical Psychology,9871516454,Mayur Vihar Pocket 1,Delhi NCR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,209,Dr Aditi Biswas,20-29,male,Psychiatrist,"english, hindi, marathi, spanish",MD (Psychiatry) MPhil (Clinical and Therapeutic Neuroscience),9136384136,A89/Hauz Khas Village,Delhi NCR,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+210,210,Ila Kulshrestha,20-29,male,Clinical Psychologist,"hindi, english",M.Phil. Clinical Psychology,9599961376,"Sukoon Healthcare, 4P, Sector 56, Gurugram, Haryana 122011",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,211,Priyamvada Aggarwal.1,20-29,male,Counsellor/Psychotherapist,english,MSc,9811057643,New Delhi,Delhi NCR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,212,Dr. Diya Nangia Kapoor,30-39,male,Clinical Psychologist,hindi and english,"Ph.D , M. Phil",9582891769,"M WELL, J-1 kailash colony",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,213,Rashi Sinha,20-29,male,Clinical Psychologist,hindi and english,M.A Clinical Pyshcology -TISS,8383887084,"Mind Piper Wellness Centre, 
+411, Gagan Vihar,
+New Delhi - 110092
+
+Also at Kashmere Gate, Green Park or online upon request. 
+
+",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,214,Ms. Saumya Mathur,20-29,male,Counsellor/Psychotherapist,english and hindi,Masters in Psychology,9810371259,Her home; at a mutually convenient place to the client and the therapist (I used to have my sessions at Starbucks),Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,215,Ashmita Dhawan,20-29,male,Counsellor/Psychotherapist,"english, hindi","Masters in Clinical Psychology
+Diploma in Gerontology",9958858402,Independent Practice,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,216,Kripi Malviya,30-39,male,Counsellor/Psychotherapist,"english, hindi","Clinical psychology, Existential psychotherapy",919620144056,"TATVA, Goa + NCR, India",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,217,Anika Bhasin,40-49,male,Counsellor/Psychotherapist,"english, hindi","B.Sc, B.Ed, MA (Psychology)",9811603341,Santulan Clinic,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,218,Aleena Ali,20-29,male,Clinical Psychologist,english and hindi,Masters in Psychology,9999987799,"Fortis Memorial Research Institute, Gurgaon",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,219,Dr Shambhavi Jaiman,20-29,male,Psychiatrist,hindi and english,"MBBS, MD (Psychiatry)",9810527576,Sukoon Health,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,220,Shweta Maheshwari,20-29,male,Counsellor/Psychotherapist,english and hindi,"MSc, MCouns from University of Edinburgh",+91 8527340991,"D-115, Defence Colony/ Online",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,221,Jyothi John,30-39,male,Counsellor/Psychotherapist,english hindi malyalam,MPhil,9654285868,"C5al 315 B, Janakpuri, New Delhi",Delhi NCR,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,222,Vidhi Bassi,20-29,male,Counsellor/Psychotherapist,english hindi,MSc Clinical Psychology,-,Online,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,223,Tanya Bakshi,20-29,male,Counsellor/Psychotherapist,english and hindi,MA in Clinical Psychology (TISS),8586853534,Chetana Counselling Centre,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,224,Vidushi Soni,20-29,male,Counsellor/Psychotherapist,english/hindi,M.A. Clinical Psychology,9625843957,They practice online presently,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,225,Deepti Kumra,20-29,male,Counsellor/Psychotherapist,"english, hindi",Master of Science in Clinical Rehabilitation and Mental Health Counseling,,Telehealth/ virtual,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,226,Sanaya Patel,20-29,male,Clinical Psychologist,"english, hindi, gujarati",M.Phil in Clinical Psychology,9599886773,"N block, South City Phase 1. Gurugram. 122001",Delhi NCR,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+227,227,Arushi Ralli,20-29,male,Counsellor/Psychotherapist,"english, hindi",Masters in applied psychology with specialisation in clinical psychology,9599944099,Private practice,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,228,Swasti Bansal,30-39,male,Clinical Psychologist,hindi and english,"MPhil Clinical Psychology, MSc in Psychology (clinical), BA (hons) Applied Psychology",9811986449,"Med Hope Clinic, Shop no 37, sector 21 A, HUDA MARKET, Faridabad",Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,229,Shubhika Singh Chundawat,20-29,male,Clinical Psychologist,"english, hindi",MPhil Clinical Psychology,+91 6267304281,online,Delhi NCR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,230,Shobhika Jaju,30-39,male,Counsellor/Psychotherapist,"hindi, english",MA Clinical Psychology,9049485444,"Borda, Margao",Goa,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,231,Zina Varugis,50-59,other,Counsellor/Psychotherapist,english,Post Graduate Diploma in Guidance & Counselling & Choice Theory/Reality Therapy,8805458372,"Alto Chicalim, Vasco da Gama, Goa",Goa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,232,Richelle Brito Carvalho,20-29,female,Counsellor/Psychotherapist,"english, konkani, hindi",M.Sc Counseling Psychologist,9767969405,"Aldona, Goa",Goa,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+233,233,Dr Mohan Raj,50-59,male,,,"M.D, D.N.B",9500116099,"Tharu Clinic, No, 8, 3rd Seaward Rd, Valmiki Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,234,Gowri Krishnamurthy,50-59,male,,,Msc Psychology and Diploma in Counseling,9884377767,"Manashanti, 34/14 Flat A Balaji Apartments, Venkatesa Agraharam, Mylapore Chennai-4",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,235,Dr Hema Tharoor,40-49,male,,,MD Psychiatry,044 24991488,Trinity Hospital,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,236,Dr Rangarajan,50-59,male,,,"DPM, MRP psych",4424337439,"The Clinic in T Nagar, Psymed Hospital in Chetpet, and Malar Fortis in Adyar",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,237,Porrselvi A.P.,20-29,male,,,PhD,9047452258,"Arunao Thelirchi Mariyam, Majestic Apartments, Saligramam, Chennai 93",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,238,Dr. Kannan ,30-39,male,,,"GK M.B,B.S, M.D, FRANZCP (Australia)", (044)-24355123 / Mobile - 80562 22106,"The Mind Space Clinic, 
+No 15, 13th Street, Nandanam Extension,
+Chennai, India - 600 035",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,239,Mahananda Bohidar,30-39,male,,,,9962740864,Nibbana,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,240,Thilagavathi ,60-69,male,,,"B.A Psychology, M.Sc Counselling & Psychotherapy, certified in Mental Health First-Aid",99401 83410,"No: 46, 1st Avenue,
+(Opp to Canara Bank & Andhra Bank)
+Ashok Nagar,
+Chennai 600083.",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,241,Dr. S Janani,30-39,male,,,,4471967336,"Shraddha Psychiatric Clinic, New Number 32, Old Number 46, Shree Hari Nivas, First Floor, Flat Number 4, Venkata Krishna Iyer Road, Landmark : Near Dhanalakshmi Bank, Mandaveli",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,242,Dr. Bhasi,40-49,male,,,"PhD, HoD, clinical psychology department, SRM university",9383845040,"Inner Temple, Vanagaram, Chennai",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,243,Nishi Ravi,20-29,male,,,"Master of Counselling, University of Edinburgh", ,Anna Nagar,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,244,Anitha D,20-29,male,,,M.Sc. Counselling Psychology ,9962383409,"16, Wescare Towers, Cenotaph Rd,  Teynampet, Chennai, Tamil Nadu 600018",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,245,Dr.Latha Janaki,50-59,male,,,"English, Hindi, Tamil, Malayalam, Telugu",9840784032,JAYS by DR.Latha Janaki,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,246,Dr Radha Shankar,60-69,male,,,Qualified medical doctor,044-24916262/24916263,"Gandhi Nagar, Chennai",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,247,Dr. Shalini Janardhan,30-39,male,,,"MBBS, MRC Psychiatry, DPM",044-28290200/3333,"Apollo Hospitals, Greams Road, Chennai",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,248,Deepa Braganza,50-59,male,,,"DPM, MD","04162284520 (not personal, office number)",Christian Medical College Vellore,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,249,Dr Arun Vangili,30-39,male,,,"M.B.B.S., M.D (psy) PDF",8903604748,Insight Clinic,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,250,Shemida Rayan,30-39,male,,,"MA in Integrative Psychotherapy. Trained in London, UK. ",9176120726,Anna Nagar,Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,251,Mrudula Goswami,20-29,male,,,MSc Counselling Psychology,8680950938,"1437, Kasbapeth, next to RCM school, Daruwalapool",Chennai & T.N.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,252,Dr Arghya Pal,30-39,male,Psychiatrist,"bengali, hindi, english",MD (AIIMS),9674417987,Uttarpara,Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+253,253,Parnasha Gupta Roy,30-39,male,Clinical Psychologist,"bengali, english, hindi",,9874277712,Private practice,Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+254,254,Dr.Nupur Guha Ray ,30-39,male,Clinical Psychologist,"bengali,hindi, english ","M.Sc,Ph.D,PGDRPSY,PPGDSC",9331297260,All are adjacent to the concerned railway station.,Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+255,255,Mansi Poddar ,30-39,male,Counsellor/Psychotherapist,english ,Masters in counselling for mental health and wellness,9830015724,"Camac Street, Kolkata 700016",Kolkata & W.B.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,256,Charvi Jain,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA in Counselling,9830072004,"26B Camac Street, Kolkata",Kolkata & W.B.,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,257,Pompi Banerjee,20-29,male,Counsellor/Psychotherapist,"bengali, hindi, english",M.Sc Applied Psychology (Clinical); PG Diploma in Psychological Counseling,7044082034,"Hindusthan Road, Gariahat (South)",Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+258,258,Parul Agarwal,30-39,male,Counsellor/Psychotherapist,"english, hindi, conversational bengali & marwari","MSc. Psychology, NVC practitioner","9564981017, parul.agr6@gmail.com","D-0229, Listening Light, Uttorayon, Siliguri, West Bengal",Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+259,259,Prachi Rathi,20-29,male,Counsellor/Psychotherapist,"english, hindi",M.Sc. in Psychological Counselling,,"Room: 205, 5 Mangoe Lane, Kolkata - 700001",Kolkata & W.B.,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,260,Prashakha Solanki,30-39,male,Clinical Psychologist,"english, hindi",MSc Clinical Psychology,9560171228,"Bhawanipore, Kolkata",Kolkata & W.B.,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,261,Ms. Gunjan Chandak Khemka,30-39,male,Counsellor/Psychotherapist,"hindi, bengali, english",Masters in Psychosocial Clinical Work,9830955545,203 Sarat Bose Road. South End Polyclinic. Canara Bank Building. Lake Road & Sarat Bose Road crossing. Amitava Das.,Kolkata & W.B.,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+262,262,Steffi Behanan,20-29,male,Clinical Psychologist,"english, hindi, malayalam, bengali",M.phil (with RCI),8095353241,Cadabams hospital,Bangalore,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+263,263,Mahesh Natarajan,40-49,male,Counsellor/Psychotherapist,"english, tamil",MS (Counselling & psychotherapy),9886910917,"InnerSight, CV Raman Nagar, Bangalore",Bangalore,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,264,Dr. Sandip Deshpande,40-49,male,Psychiatrist,"english, kannada, hindi","MB BS, MD (Psychiatry), DPM, MRCPsych, CCT (UK), PGDip (Sexual & Relationship Psychotherapy",91 80 42199437,Sanjeevini Clinic,Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+265,265,Pinki Solanki,40-49,male,Expressive and Creative Arts therapist,"english, hindi",,9741334888,"Sanjay Nagar, Bengaluru",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,266,Dr. Mahesh R Gowda,,male,Psychiatrist,"kannada, english and hindi","MBBS , Diploma in Psychological Medicine , DNB (Psychiatry)",919035560000 / 080 23493157 / 080 23595652,"549/46, 6th Main, 4th Block, Rajajinagar, Bangalore - 560010, Karnataka",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+267,267,Manisha Shastri,20-29,male,Peer supporter,"english, hindi",,8861512959,personal residence,Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,268,Rohini Rajeev,30-39,male,Counsellor/Psychotherapist,"malayalam, hindi, tamil, kannada & english",MSW-Medicine & Psychiatry; Pursuing PhD in Applied Psychology,8892041947,"DeStress.in, Thubrahalli, Whitefield, Bangalore",Bangalore,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+269,269,Gayitri Bhatt,60-69,male,Counsellor/Psychotherapist,"english, hindi, kannada, gujarati","MD, MSc, EMDR Certificate",9448040240,Couch Center for New Beginnings,Bangalore,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+270,270,Varun Kaul,30-39,male,Counsellor/Psychotherapist,"hindi, english",,9686581821,"p7, 3rd cross, near jeevan beema nagar bus stand",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,271,Father Pancratius,40-49,male,Clinical Psychologist,"english, malayalam, hindi, tamil","Masters in psychology, PhD",9480429086,"Our Lady of Sacred Heart, Haralur Road",Bangalore,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,272,Varun Kaul.1,30-39,male,Counsellor/Psychotherapist,"hindi, english",,9686581821,"p7, 3rd cross, near jeevan beema nagar bus stand",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,273,Dr. Bhupendra Chaudhry,,male,Psychiatrist,"english, hindi","MBBS, MD - Psychiatry",91-9980524700,"Mallige Medical Centre Pvt. Ltd.
+ 31/32 Crescent Road, Bangalore 560001, India
+ Phone: +91-80-67165555, +91-80-22203333
+ Fax: +91-80-22265298
+ Email: info@mallige.com
+ Web: www.mallige.com",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,274,Dr. Prabha Chandra,60-69,male,Psychiatrist,"hindi, english, kannada",,91 98 80 383057,"NIMHANS, bangalore",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+275,275,Manju,40-49,,Counsellor/Psychotherapist,english,,91 80 25298686,"Parivarthan, Indiranagar",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,276,Riddhi Khandwal,30-39,male,Clinical Psychologist,english,,98 86 947485,Sagar Clinic,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,277,Kalyanasundaram,50-59,male,Psychiatrist,"kannada, english, tamil",MD,22442241,"Shanthi Nursing home , Jayanagar",Bangalore,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+278,278,Akshara Damle,20-29,male,Counsellor/Psychotherapist,"english, hindi, kannada",MSc Psychology,8447908644,"Mano Samvaada
+ No. 28 (New 57, 20th A Main Rd, 
+ 1st R Block, Rajaji Nagar, 
+ Bengaluru, Karnataka 560010
+ Landmark: Behind Mahalakshmi Metro Station",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+279,279,Anita Rajnarayan,40-49,male,Alternative therapy,"english, hindi, tamil, kannada",,9741399482,"Adrsh Vista Villa, Doddanekkundi, Bengaluru, Karnataka 560037",Bangalore,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+280,280,Simi Matthew,30-39,male,Counsellor/Psychotherapist,english,,6391-559859,"SMarT Studio
+ # 37/4 Meanee Avenue, Ulsoor
+ Bangalore, Karnataka 560042
+ India",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,281,Hema Sampath,40-49,male,Clinical Psychologist,"english, tamil, kannada, hindi",,98802 63815,"Regenerating lives, 10, 1st Cross Rd, SFHS Layout, BHBCS Layout, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",Bangalore,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+282,282,Chaitra Mahesh,30-39,male,Counsellor/Psychotherapist,"english, kannada, hindi",M.Sc Psychological Counselling,8095321705,"100 feet ring road, JP Nagar 6th phase",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+283,283,Amita Bala,40-49,male,Counsellor/Psychotherapist,"english, tamil","M.Sc . (Psychology);B.Com.; ACCA ; CPA ; Certificate in Counselling (BSIC); Certificate in Child and Adolescent Counselling, Certificate in Couple and Family Counselling;",9845092845,Koramangala,Bangalore,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,284,Christopher David Skill,50-59,male,Counsellor/Psychotherapist,english,,8971832591,"Niramai Clinic, Indiranagar",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,285,Nithya J Rao,20-29,other,Rehabilitation Psychologist,english hindi kannada,Masters in Rehabilitation and Counselling,7892551372,Heart it Out,Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+286,286,Manju.1,40-49,,Counsellor/Psychotherapist,english,,80 25298686,"Parivarthan, Indiranagar",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,287,Sukanya Ananth,40-49,male,Counsellor/Psychotherapist,english,"MSc, Psychotherapy",9845071147,"#73, First Floor, 15th Cross, 6th Main, Malleshwaram, Bangalore - 560 055",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,288,Anupama mahajan,40-49,male,Experiential Counsellor,"english, hindi, marathi",,+91 98451 74492,Mathikhere,Bangalore,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+289,289,Anupama Gautam,40-49,male,Counsellor/Psychotherapist,"english, kannada, hindi",,9845174492,"Private  Sessions in various locations 1. Mathikere, behind Ramaiah College 2. St Marks Road 3. Skype sessions",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+290,290,Kala Balasubramanian,40-49,male,Counsellor/Psychotherapist,"english, hindi, tamil, kannada",MS - Counselling and Psychotherapy,9632146316,"114, II Floor, 6th Main Road, Byrasandra, Jayanagar I Blk East, Bangalore - 560011",Bangalore,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+291,291,Sahiti Gavarikar,20-29,male,Counsellor/Psychotherapist,english,M.Sc in Counselling Psychology,-,Sampurna Montfort College,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,292,Sangeetha Deenanath,40-49,male,Counsellor/Psychotherapist,kannada telugu tamil malayalam english hindi,M.Sc in Counselling Psychology,919880000000,"573, 3rd block, 16th B main, Koramangala Bangalore 560034",Bangalore,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+293,293,Mahima Mallya,,male,Counsellor/Psychotherapist,"english, hindi",,9742643792,"Tattva Counselling, #606, 80 Feet Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,294,Shree Prabha,50-59,male,Counsellor/Psychotherapist,english,"MSc Psychology, Clinical Hypnotherapy, Clinical Hypnotherapy, Transpersonal Regression Therapy, NLP Master",91 9846000000,Bangalore,Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,295,Ravi Prakash - Veditha Mind Care Clinic,40-49,male,Cognitive Behavioural Therapy,english hindi kannada,,91 97416 37803,"Vedhitha Mind Care Clinic, 3rd Floor; Municipal No.3; HMT LAYOUT; Near JP Park, Opposite to Chowdeshwari Bus Stop, Landmark : Above Dr. Lal's PathLab",Bangalore,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+296,296,Jyothi John,30-39,male,Counsellor/Psychotherapist,"hindi, english, malayalam",M. Phil in Psychology,9654285868,Private Practice,Bangalore,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,297,Divya Ganesh Nallur,,male,Psychiatrist,"english, kannada","MBBS, MRCPsych, PG Diploma in CBT",8046659999,People Tree Marga,Bangalore,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+298,298,Dr. Bhuvaneshwari,40-49,male,Psychiatrist,"english, kannada","MBBS, MD, DPM",080-22065460,"St. John's Medical Collage Hospital, Psychiatry Dept",Bangalore,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+299,299,Komal Narang,40-49,male,Counselling Psychologist,"english, hindi",Post Graduation Diploma in Psychological Counselling,080-40929201,"MBS Holistic Clinic, 1-Floor, DSR Atrium, ECC Road, Adjacent to GR Tech Park, Whitefield, Bengaluru - 560066",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,300,Ramya Sastry,30-39,male,Counsellor/Psychotherapist,english/kannada,"BS in Psych (US), Dip in Couples Therapy (US), Certifications in Trauma-informed psychotherapy (NICABM), Masters training in mindfulness-based psychotherapeutic practice (U.K).",7259149497,"Independent private practitioner 
+ Bengaluru",Bangalore,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+301,301,Ms.Sneha Satheendran,20-29,male,Counsellor/Psychotherapist,english hindi,Masters in counselling psychology,91 99758 85473,"Yashica heart care centre, Viman Nagar, pune",Bangalore,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,302,Indratapa Das,20-29,male,Counsellor/Psychotherapist,"english, hindi, bengali",Master's in Counseling Psychology,9884290616,"The Safe Space, #339, 9th Main Road, Stage 2, Eshwara Layout, Indiranagar, Bangalore - 560038",Bangalore,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+303,303,Ashwini Vishwanathan,20-29,male,Clinical Psychologist,"english, kannada, malayalam",MPhil in Clinical Psychology,9538451091,Private practice,Bangalore,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+304,304,Chandni Vijay,20-29,male,Clinical Psychologist,"english, malayalam, hindi",M.Phil. Clinical Psychology,9742052330,Private Practice,Bangalore,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,305,Sofie Mathew,40-49,male,Counsellor/Psychotherapist,"english, hindi, malayalam, kannada",M.Sc. Counselling Psychology,9449112092,"She used to work at Jindal Naturecure, but now she works independently.",Bangalore,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+306,306,Anindita Kundu,30-39,male,Counsellor/Psychotherapist,"english, hindi, bengali","Masters in Applied Psychology, Certified Trauma Therapist from Boston USA, Suicide Prevention Expert From USA.",9535024109,Sampurna Montfort College Indiranagar/ Online,Bangalore,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+307,307,Beena N,40-49,male,Counsellor/Psychotherapist,"english, kannada, telgu, hindi",Ms In psychothereapy,9663487401,Self Practioner,Bangalore,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+308,308,Jennifer Moses,40-49,male,Counsellor/Psychotherapist,"english, tamil",Masters in Counselling Psychology,9620046464,HSR Layout,Bangalore,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,309,Devika Arora,30-39,male,Counsellor/Psychotherapist,english,"BSC Business, MA Psych, Certified Life Coach",9830912234,"Magic Mind HQ, Indiranagar, Bangalore",Bangalore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,310,Mrs. Nazneen Ahamed,30-39,male,Counsellor/Psychotherapist,"english ,hindi, kannada, telugu,tamil,urdu",Msc.and Mphil in Psychology,9916617200,Sri Bhagawan Mahveer Jain First Grade College.,Bangalore,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+311,311,Vandana Brahmasa,20-29,male,Counsellor/Psychotherapist,"english, hindi and telegu",MA in Applied Psychology,7738671251,Bangalore,Bangalore,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,312,Shreya Chatterjee,30-39,male,Clinical Psychologist,"english, hindi, bengali",,8335947720,"Mindscape, 4th floor, Rishabh Poly Clinic ,JANITVA OPP POST OFFICE, New Thippasandra Main Rd, HAL 3rd Stage, Puttappa layout, New Tippasandra,",Bangalore,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+313,313,Chaithanya Vannarath,40-49,male,Counsellor/Psychotherapist,"english, malayalam",MA Psychology,7259534090,,Bangalore,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,314,Dr. Sangeeta Datta,30-39,male,Psychiatrist,"english, assamese, hindi",,9678615670,"Agile Hospital, Nemcare Hospital",Assam,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+315,315,Dr Gaurav Deka ,30-39,male,Counsellor/Psychotherapist,"english, hindi, assamese ","MBBS, BA Psychology from BU",+91 95991 54305,"D-687, 2nd floor, Chittranjan Park ",Assam,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+316,316,Gariasi Dutta,40-49,male,Counsellor/Psychotherapist,assamese hindi english ,,9864055560,Down town hospital,Assam,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+317,317,Pingali srilakshmi,40-49,male,Psychiatrist,"english, hindi, telugu, oriya",MBBS; MD (Psychistry),+919390048686,"326, Laxmi Nilayam, Near ITC Kakatiya Hotel, Greenlands, Begumpet, Hyderabad, Telangana 500016",Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+318,318,Dr. Diana Monterio,30-39,male,Counsellor/Psychotherapist,"english, hindi and telgu",Ph. D,94939 75140,Hyderabad Academy of Psychology,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,319,Aarthi Selvan,30-39,male,Clinical Psychologist,"english, hindi","M.Phil. Clinical Psychology, National Certified Counselor (USA), Licensed Clinical Psychologist (India)",9490708947,"Pause for Perspective, G-4 East Face Homes, Near St. Francis Degree College,Kundan Bagh, Begumpet, 500016",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,320,Tanmayi,20-29,male,Counsellor/Psychotherapist,"english, telugu, hindi",Masters in Applied Psychology,83415 62477,Secunderabad,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,321,Ambica gupta,30-39,male,Counsellor/Psychotherapist,"english, hindi and telugu",masters in clinical psychology,9885154320,kirloskar hospital,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,322,David Lalit Kumar,20-29,male,Counsellor/Psychotherapist,"english, hindi, telugu","Graduate, Author, theological",9704039847,Hyderabad,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,323,Dr. Varudhini Kanikpati,,male,Clinical Psychologist,english,"M.Sc, PhD",91 9848884602,"Plot #1272, Road #63A, Near Jubilee hills checkpost petrol bunk, Jubilee hills, Hyderabad - 500033, T.S.
+",Hyderabad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,324,Dr. Vijay Starlin,30-39,male,Counsellor/Psychotherapist,"english, telugu, hindi, kannada, bengali",MBBS,9963189029,Asha Hospital and also their own private clinic,Hyderabad,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+325,325,Nida mir,20-29,male,Counsellor/Psychotherapist,english and hindi,MSc. Applied Psychology,9490708947,"Aarathi Selvan's Pause for Perspective, 6-3-1198, G-4, East Face Homes, Vaman Naik Lane, Kundan Bagh, Near St. Francis Degree College,, Begumpet, Hyderabad, Telangana 500016",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,326,Varsha Vemula,,,Counsellor/Psychotherapist,,,9490708947,Pause for Perspective,Hyderabad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,327,Lalitha Pooja,20-29,male,Counsellor/Psychotherapist,"english, telugu, tamil and hindi",Masters in Applied Psychology,9490708947,Pause for Perspective,Hyderabad,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,328,Dr. Mahima Sukhwal,30-39,,Clinical Psychologist,"hindi, english","MPhil, PhD in Clinical Psychology",9490708947,"Pause for Perspective, Kundan Bagh, Methodist colony, Begumpet, Hyderabad",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,329,Dr. Swetha Turlapati,20-29,male,Counsellor/Psychotherapist,"english, hindi, telugu","Doctor of pharmacy, Masters in Applied Psychology, PGD in Mental Health ,",9490708947,Pause for Perspective,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,330,Preethi Nagarajan,20-29,male,Counsellor/Psychotherapist,"hindi, telugu, tamil and english",PG Diploma and Masters in Counselling Psychology,9490708947,Pause for Perspective,Hyderabad,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,331,Lenni George,20-29,male,Counsellor/Psychotherapist,"english, malayalam",,9632414007,"Mind.fit, Gachibowli",Hyderabad,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,332,Lenni Anna George,20-29,male,Counsellor/Psychotherapist,english,M.sc(hon) counselling psychology,9160819192,cult fit,Hyderabad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,333,Saher Ali,40-49,male,Counsellor/Psychotherapist,english and hindi,MSc Holistic Psychological Counseling,9949177700,"Totums Art Studio, Somajiguda, Hyderabad",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,334,Nisha Verma,40-49,male,Experiential Counsellor,english / hindi,Life Coach,9849103493,Yours Consciously Healers Room,Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,335,Syeda Rafath Unnisa,20-29,male,Counsellor/Psychotherapist,"english, hindi",Msc. Applied Psychology,9490708947,"Pause for Perspective, Uma Nagar, Begumpet, Hyderabad.",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,336,Shazia Ahmad,30-39,male,Counsellor/Psychotherapist,"english, hindi, urdu",PGD Psychological Counselling Skills,9490708947,PAUSE FOR PERSPECTIVE,Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+337,337,Sridevi Mannava,50-59,male,Counsellor/Psychotherapist,"english, teledu and hindi",Postgraduation diploma in psychological counselling skills,9490708947,"Pause for perspective G-4 ground floor,  East Face Homes apartment Kundan Bagh begumpet hyderabad  500016",Hyderabad,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,338,Ruhi Sameena,20-29,male,Counsellor/Psychotherapist,"english, hindi and telugu","BA-psychology, PGD-child psychology, MA-clinical psychology",9490708947,Pause for perspective,Hyderabad,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,339,Lenni George.1,30-39,male,Counsellor/Psychotherapist,english,Post graduate,9632414007,MindFit,Hyderabad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,340,Col (Dr) T R John,50-59,male,Psychiatrist,english hindi malayalam,MD Psychiatry,9400869999,Aster medicity,Kerala,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,341,Kevin Peter,30-39,male,Counsellor/Psychotherapist,"english, malayalam","MSc Psychology, Dp. CBT, Psy",9074027483,"Softmind, Lakshmi hospital, Aroor, Alappuzha",Kerala,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,342,Dr Anil Prabhakaran,50-59,male,Psychiatrist,english and malayalam,"MBBS, MD, DPM",9847068126,"Kumarapuram, Thiruvananthapuram",Kerala,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,343,Deva Pramod VB,30-39,male,Counsellor/Psychotherapist,malayalam,"M.Sc (Psy), PGDGC",7591911213,The Psychology Clinic,Kerala,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,344,Arathi JS,30-39,male,Psychiatrist,"malayalam, english, hindi","MD, MBBS",918590223158,Govt. Hospital Aluva,Kerala,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,345,Anoop Vincent,40-49,male,Psychiatrist,"english, malayalam","MBBS, MD Psychiatry",9387914387,"SNIMS Chalakka, North Kuthiyathode, Ernakulam. Pin 683594",Kerala,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,346,Dr NELSON C ELIAS,40-49,male,Counsellor/Psychotherapist,"english, malayalam",Ph D Psychology PGDGC,9288092788,online service,Kerala,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,347,Mili M Das,30-39,male,Counsellor/Psychotherapist,"english, malayalam, hindi","MSc psychology, pursuing PhD",916282350251,Sports authority of india,Kerala,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,348,Nilakshi Vaidya,20-29,other,Clinical Psychologist,"english, hindi",,8861090988,PGIMER,Punjab,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,349,Smita Vasudev,30-39,male,Counsellor/Psychotherapist,"hindi, english, punjabi",,9815857006,"Lajwanti hospital, near Jalandhar bus stand",Punjab,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,350,Jyoti Sharma,20-29,male,Counsellor/Psychotherapist,"english, hindi","M.Sc. Counseling Psychology, Christ University",-,"Fortis Hospital, Sector 62, Sahibzada Ajit Singh Nagar(Mohali), Punjab",Punjab,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,351,Dr. BK (Simmi) Waraich,50-59,male,Psychiatrist,"hindi, english, punjabi",MD in Psychiatry,9814950797,"Fortis, Sector 11, Chandigarh",Punjab,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,352,Deepa Bali,50-59,other,Counsellor/Psychotherapist,"english, hindi, punjabi",Masters in Behavioral psychology and post graduate diploma in psychological counselling,91 97416 37803,Private practice,Punjab,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,353,Yashodhra Arora,30-39,male,Counseling Psychologist and Career coach,"english, hindi and punjabi",M.A Psychology and PG Diploma in Guidance and Counseling,9805368877,Free Lancer and travel all over India,Punjab,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,354,Mehak Bhandari,30-39,male,Counsellor/Psychotherapist,"english, hindi, punjabi",Masters in Psychology,9915556777,"1236, Sector 18 C, Chandigarh. Also offering online consultation",Punjab,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,355,Alka Kapoor,50-59,male,Clinical Psychologist,"english, hindi, punjabi",,9179383554,"Devki Mansion, Baikunth Dham, Indore 452008",Madhya Pradesh,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,356,Aman Gouri,20-29,male,Clinical Psychologist,"english, hindi and kannada","B.A, M.A (Clinical Psychology), M. Phil (Clinical Psychology) RCI Registration",7748049690,"E - Star 04, Sagar Royal Villas Near Hoshangabad Road Bhopal",Madhya Pradesh,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+357,357,Suniti Barbara ,20-29,male,Counsellor/Psychotherapist,english and hindi,,8390025415,Iscah wellness,Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,358,Seema Gaikwad,30-39,,Counsellor/Psychotherapist,"english, hindi and marathi",,9850401528,"Near Kamla Nehru Park, Bhandarkar Rd.",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+359,359,Dr Ajish Mangot,30-39,male,Psychiatrist,"english, hindi,  marathi, malayalam","PDF, MD, DPM, PGDHHM, PGDMLS",9145042715,"OPD 22, Krishna Hospital & Research Centre, Malkapur, Karad, District Satara, Maharashtra - 415110",Maharashtra,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+360,360,Dr Vasantmeghna Murthy,30-39,male,Psychiatrist,"english, hindi, marathi, telugu, tamil",MD Psychiatry,9145042571,"OPD 22, Krishna Hospital & Research Centre, Malkapur, Karad, Satara District, Maharashtra - 415110",Maharashtra,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+361,361,Anil Vartak,50-59,male,Secretary of Schizophrenia Awareness Association (SAA) working towards raising awareness for mental health problems ,"english, hindi, marathi",Doctorate in Economics ,9503710859,"SAA, Kamal Bhawan, Dhayari,Pune",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+362,362,Neha Shetty,30-39,male,Psychiatrist,"english, hindi","MBBS, MD - Psychiatry",7507102220,Pimple Saudagar,Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,363,Daanesh Umrigar,30-39,male,Clinical Psychologist,"english, hindi, marathi, gujarati",MPhil in Clinical Pyshcology,9960522640,"Usha Nursing Home, Pune",Maharashtra,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+364,364,Kaehalee Shinde,20-29,male,Counsellor/Psychotherapist,"english , hindi, marathi","MA Clinical Psychology, RECBT - Albert Ellis Institute New York",7507009464,"Peace Of Mind , Flat 1 A, Asmita Apartments, 1194 Shivajinagar, Off Ghole Road , Pune - 411005",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+365,365,Tanya Bakshi,20-29,male,Counsellor/Psychotherapist,"english, hindi",MA in Applied Psychology (specialisation in clinical psychology),8586853534,"Chetana Counselling Centre, Fatima Nagar, Wanowrie, Pune",Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,366,Sonia Malhotra,30-39,male,Psychiatrist,hindi and english,,9828867627,"Mind Matters, Wanowrie, Pune",Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,367,Dr Bhagyawant,30-39,male,Clinical Psychologist,marathi hindi,MA MPhil PGDRP PGCC,8007882244,Washim .near Akola naka,Maharashtra,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+368,368,Ms.Sneha Satheendran,20-29,male,Counsellor/Psychotherapist,english hindi,Masters in counselling psychology,91 99758 85473,"Yashica heart care centre, Viman Nagar, pune",Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,369,Sandy Dias Andrade,40-49,male,Counsellor/Psychotherapist,english,MA Clinical Psychology, ,Just Being Center,Maharashtra,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,370,Dr. Vasudeo Paralikar,60-69,male,Psychiatrist,"english, hindi, marathi","M.D, PhD",2025411666,"Office 101, Soba Mansion Khilare path, Near mhatre bridge, Erandwana, Pune 411 052",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+371,371,Niharica Shah,20-29,male,"Psychologist, Expressive Arts Therapy Facilitator","english, hindi, marathi","M.Sc. Clinical Psychology, Certified Facilitator of Visual Art and Creative Movement Therapies",7057226601,"She practices in 3 different places. Artsphere in Kalyani Nagar, Taal Inc. in Baner, and Just Being Center in Camp",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+372,372,Mugdha Shivapurkar,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi",MA in Clinical Psychology & Certified in Creative Arts Therapy,9921734200,"Flat No 4, Kshitij Rekha Apartments, Lane No 3, Dahanukar Colony, Kothrud, Pune 411038",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+373,373,Sneha Satheendran,20-29,male,Clinical Psychologist,"english, hindi",,91 99758 85473,Yashica heart care centre,Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,374,Dr. Kiran K,30-39,male,Psychiatrist,"english, hindi, marathi, tamil, kannada",MD Psychiatry,,"303, choice 'c' apartment, opposite Ruby Hall clinic, Dholepatil road.",Maharashtra,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+375,375,Anil sawarkar,40-49,male,Clinical Psychologist,"marathi ,english ,hindi","masters in clinical psychology and certification in psychotherapy, 15 years of experience",8805124371,"EMOTICONSIndia ,Aundh ,Pune",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+376,376,Aishwarya Jain,20-29,male,Clinical Psychologist,"english, hindi, marathi, gujrati.","MA in Clinical Psychology (Pune)
+PG in Psychotherapy and Counselling (London)",7020229237,"Glisten Healthcare
+Office morning 21, Ashoka Pavillion Basement,
+Dr Baba Saheb Ambedkar Road,
+Opposite Lal Deval, Camp, Pune 411001",Maharashtra,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+377,377,Nikunja Gujar,20-29,male,Counsellor/Psychotherapist,"marathi , hindi , english",masters in industrial psychology and certification in psychotherapy,9158487848,EMOTICONSIndia,Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+378,378,Surama Shah,50-59,male,Counsellor/Psychotherapist,"english, hindi , marathi ,gujarathi ","B.A,
+M.Sw , 
+LLB, 
+MA (Psycholohy) on going , 
+Certifications from
+1.St. Xavier s Institute of Counselling, Mumbai
+2.National Federation of Neurolinguistic Programming, USA
+3.The Feuerstein Institute, Israel
+4. Morphic Minds, Mumbai
+5. The Albert Ellis Institute, NY
+
+", ,"Chitti, Opposite Ramwadi, Malegaon Road ,Dhule 424001",Maharashtra,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+379,379,Anagha Bhave,20-29,male,Counsellor/Psychotherapist,"hindi, english, marathi",M. Psych,2420815,"Midas heights, lokmat square",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+380,380,Shalaka Khare,20-29,male,Counsellor/Psychotherapist,"english, marathi, hindi",M.A (Psychology),+91 90284 93276,"Hike Through Life, Nagpur",Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+381,381,Prachi Naik,20-29,male,Counsellor/Psychotherapist,"english, hindi, marathi",M.A. Psychology (Clinical),,Practises online therapy,Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+382,382,"Ms. Nupur Dhakephalker (Center for Mental Health, Pune)",30-39,male,Clinical Psychologist,"english, hindi, kannada, marathi","Double bachelors, masters, and M.Phil. in Clinical Psychology and a diploma in Clinical Hypnotherapy.",+91 93709 17252|,"Center for Mental Health. B1, Priyadarshan, Cosmos Bank and Reliance Footprint Lane, Sanewadi, Aundh, Pune, Maharashtra 411007",Maharashtra,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+383,383,Komal Narsingani,40-49,male,Counsellor/Psychotherapist,"english, hindi",Post Graduate Diploma in Counselling,8780000000,10:00-20:00,Maharashtra,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,384,Dr. Varsha Choudhari,30-39,male,Counsellor/Psychotherapist,"marathi, hindi, english","BHMS, MA (Psychology)",9960257024,09:30 am to 01:00 pm 04:00 pm to 09:00 pm,Maharashtra,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+385,385,Dr.Tamanna,30-39,male,Counsellor/Psychotherapist,hindi and english,PhD,9887502785,Pacific Hospital,Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,386,Dr Vikas Thanvi,40-49,male,Psychiatrist,"english, hindi","MBBS, DPM","01414251744, +919828116573",Dr Thanvi's Neuropsychiatric Clinic,Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,387,Dr. Anamika Papriwal,,,Counsellor/Psychotherapist,english & hindi,M.A. PHD. in Psychology,9783944484,"5/261 Malviya Nagar, Jaipur, Rajasthan",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,388,Mrigtrishna Rathore,20-29,male,Counsellor/Psychotherapist,"hindi, english, rajasthani",M. Sc. Counseling Psychology,9782169011,"Malviya nagar, Jaipur",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+389,389,Shiromi Chaturvedi,20-29,male,Counsellor/Psychotherapist,hindi/english,MA in counselling,91 73576 93666,Jaipur,Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,390,Neha Kathuria,20-29,other,Counsellor/Psychotherapist,hindi/ english,Post graduate,91 84540 31389,Self employed,Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,391,Ruchir Sodhani,50-59,male,Counsellor/Psychotherapist,"english, hindi",,91 73406 34643,"C.K. Birla Hospital, Jaipur",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,392,Dr. Reena Bhansali,30-39,male,Counsellor/Psychotherapist,"hindi, english",PhD,094141 79461,"Smile Junction, Near Adarsh Batteries, 3rd C Rd, Sardarpura, Jodhpur, Rajasthan 342003",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,393,Pranesh Krishna,20-29,male,Counsellor/Psychotherapist,"english, hindi",Masters in Applied Psychology- Specialization in Clinical Psychology,9953553667,"2-TH-21, Vigyan Nagar, Kota-324005",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,394,Swati Gautam,30-39,male,Counsellor/Psychotherapist,"hindi, english","MA-Psychology, PG Diploma in Guidance and Counselling",9587665976,"Talwandi, Kota",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,395,Palak Mehta,20-29,male,Counsellor/Psychotherapist,hindi and english,"Master's degree in Counselling Psychology. Also, she has been engaging in various certifications in the area of expressive arts and somatic therapy.",89520 05983,"10 am - 6pm, 8:15pm -9:15pm",Rajasthan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,396,Zinnia Bharucha,20-29,male,Counsellor/Psychotherapist,"english, gujarati and hindi","Mental Health professional, Counsellor and Psychologist",(0) 7573066777,"391 saraswatinagar near Azad society behind old iim near nandalay temple, Ahmedabad 380015",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+397,397,Rajul Jagdish,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati",M.Sc. in Psychological Counseling,8431455791,"Room, The Mindcare Space : 401, Shikhavali Apartment, Paldi Crossroads, Paldi, Ahmedabad",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+398,398,Dr. Dharmesh Patel,40-49,male,Psychiatrist,"gujarati, hindi, english","MBBS, M.D. (Psychiatry)",9824317830,"1st Floor, Dev Complex Near Parimal Garden Cross road, Ambavadi, Ellisbridge, Ahmedabad, Gujarat 380006",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+399,399,Esha Patnaik,30-39,male,Counsellor/Psychotherapist,"english, hindi",,9426038689,"Shivranjini, Ahmedabad",Gujarat,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,400,Mitanshi Shah,20-29,male,Counsellor/Psychotherapist,"hindi, english, gujarati","MSc Mental health; Psychological therapies , London",9913000025,Ahmedabad,Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+401,401,Yash Aswar,20-29,male,Counsellor/Psychotherapist,"english , hindi , gujarati",Mphil,918140000000,"A-1002 , siddhi Residency , pal gam , Adajan , surat",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+402,402,Vishakha Taunk,20-29,male,Counsellor/Psychotherapist,"english, gujarati","Masters in Psychology, PG Diploma in psychotherapy, CBT, Graphotherapist, NLP Practitioner",7201889972,"Vishakha Taunk, Purushottam Nagar, Vadodara",Gujarat,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+403,403,Zinnia Bharucha.1,20-29,male,Counsellor/Psychotherapist,"english, gujarati and hindi","Mental Health professional, Counsellor and Psychologist",(0) 7573066777,"391 saraswatinagar near Azad society behind old iim near nandalay temple, Ahmedabad 380015",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+404,404,Rajul Jagdish.1,20-29,male,Counsellor/Psychotherapist,"english, hindi, gujarati",M.Sc. in Psychological Counseling,8431455791,"Room, The Mindcare Space : 401, Shikhavali Apartment, Paldi Crossroads, Paldi, Ahmedabad",Gujarat,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,405,Dr. Akhil Chopra,30-39,male,Consultant Psychiatrist,"english, hindi","MBBS, MD Psychiatry",7060967850,"Mind Heal - A Neuro-Psychiatry & De-addiction Clinic
+
+Opposite Hotel Saffron Leaf, General Mahadev Singh Rd, near State Bank ATM, Dehradun, Uttarakhand 248001",Uttarakhand,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,406,Dr. Y.V. Ramana,60-69,male,Psychiatrist,"english, telugu",,0863 225 6353,"19, door no# 12 opp bajaj service center, 89, Old Bank St, Kothapeta, Guntur, Andhra Pradesh 522001
+",Andhra Pradesh,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,407,Dr Dipak Giri,40-49,male,Psychiatrist,"hindi, eng, bengali",Md Psychiatry,93342 38982,"Sadar Hospital, Jamshedpur",Jharkhand,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+408,408,Rashi Sinha,20-29,male,Counsellor/Psychotherapist,hindi english,"M.A Applied Psychology (Clinical Psychology), TISS Mumbai
+B.A (Hons) Psychology, LSR, University of Delhi",8383887084,,Bihar,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
