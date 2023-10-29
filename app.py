@@ -133,7 +133,7 @@ def main():
         opt1 = st.selectbox('Question 1',options1)
         ans1 = options1.index(opt1)
 
-        options2 = ["I am not particularly discouraged about the future","I am not particularly discouraged about the future","I feel I have nothing to look forward to","I feel the future is hopeless and that things cannot be done"]
+        options2 = ["I am not particularly discouraged about the future","I feel discouraged about the future.","I feel I have nothing to look forward to","I feel the future is hopeless and that things cannot be done"]
 
         opt2 = st.selectbox('Question 2',options2)
         ans2 = options2.index(opt2)
