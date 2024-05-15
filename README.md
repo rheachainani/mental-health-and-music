@@ -1,3 +1,6 @@
 # Mental Health and Music
 
 The aim of this project was to analyze the relation between a person's mental health status and their music listening patterns, backed by data. The data was collected from a customised Google form which received 500+ anonymous responses for various categories like the person's age, favorite genre, hours spent listening to music, and many more. This was followed by the crucial steps of data preprocessing and exploratory data analysis. The final deployment using streamlit involved 4 sections, first - to brief the user about the standardized self-reporting tests for anxiety and depression, the next two for calculating the anxiety and depression levels based on the ASQ and BDI tests, respectively. The last section is dedicated to the results, based on which, if the user has mild to moderate levels on both the tests, then they're suggested songs that could lift up their moods (based on the top genre and the latest songs scraped from Spotify). But if they show high levels on either of the tests, then they are provided with the details of mental health professionals based on their preferences and demographic details.
+
+### Try it out here:
+https://mental-health-and-music.streamlit.app/
